@@ -1,2 +1,2 @@
 # My-College-Work
-This Repository will contain my Project Work from my time in College when I was in Buisness Information Systems
+This Repository will contain all my project work from my time in the South East Technilogical University (SETU) where I studied Bachelor of Business (Honours) in Business Information Systems
